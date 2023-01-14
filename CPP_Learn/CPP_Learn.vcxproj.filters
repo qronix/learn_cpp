@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\S1">
+      <UniqueIdentifier>{ce367c37-6c47-4557-b8d9-f33c2479687c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S4">
+      <UniqueIdentifier>{097bf3fe-da44-49a1-aa84-51c5d63ccbe2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S2">
+      <UniqueIdentifier>{fe4b921c-6ce1-49c6-9fa0-3119e8a84434}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\O1">
+      <UniqueIdentifier>{bced5f9d-f620-4b25-9ced-e9fdfa1b9e5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S6">
+      <UniqueIdentifier>{a03b7164-680d-42d7-99ed-3ad31f484518}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="basics.cpp">
+      <Filter>Source Files\S1</Filter>
+    </ClCompile>
+    <ClCompile Include="bool.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="floats.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="constants.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="literals.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="functions.cpp">
+      <Filter>Source Files\S2</Filter>
+    </ClCompile>
+    <ClCompile Include="header_guards.cpp">
+      <Filter>Source Files\S2</Filter>
+    </ClCompile>
+    <ClCompile Include="headers.cpp">
+      <Filter>Source Files\S2</Filter>
+    </ClCompile>
+    <ClCompile Include="integral_types.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="multiply_by_2.cpp">
+      <Filter>Source Files\S1</Filter>
+    </ClCompile>
+    <ClCompile Include="preprocessor_directives.cpp">
+      <Filter>Source Files\S2</Filter>
+    </ClCompile>
+    <ClCompile Include="strings.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="forward_declarations.cpp">
+      <Filter>Source Files\S2</Filter>
+    </ClCompile>
+    <ClCompile Include="type_conversion.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="types.cpp">
+      <Filter>Source Files\S4</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_manipulation.cpp">
+      <Filter>Source Files\O1</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_manipulation_practice.cpp">
+      <Filter>Source Files\O1</Filter>
+    </ClCompile>
+    <ClCompile Include="bit_wise_operators.cpp">
+      <Filter>Source Files\O1</Filter>
+    </ClCompile>
+    <ClCompile Include="bitmask_practice.cpp">
+      <Filter>Source Files\O1</Filter>
+    </ClCompile>
+    <ClCompile Include="bitmasks.cpp">
+      <Filter>Source Files\O1</Filter>
+    </ClCompile>
+    <ClCompile Include="namespaces_and_scope.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="local_variables.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="global_variables.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="variable_shadowing.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="internal_linkage.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="external_linkage.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="non_const_globals_are_bad.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="inline_variables.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="static_local_variables.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="scope_duration_linkage_summary.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="inline_functions.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="defineMain.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geo_utils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="geo_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

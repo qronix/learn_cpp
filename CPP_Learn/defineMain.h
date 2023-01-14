@@ -1,0 +1,29 @@
+#pragma once
+
+#include <iostream>
+
+//#define __BASICS__
+//#define __MULTIPLY_BY_TWO__
+//#define __FUNCTIONS__
+//#define __FORWARD_DECLARATIONS__
+//#define __PRE_PROCESSOR_DIRECTIVES__
+//#define __HEADER_GUARDS__
+//#define __INTEGRAL_TYPES__
+//#define __LITERALS__
+//#define __CONSTANTS__
+//#define __BIT_MANIPULATION__
+//#define __BIT_WISE_OPERATORS__
+//#define __BIT_MASKS__
+//#define __BIT_MASK_PRACTICE__
+//#define __BIT_MANIPULATION_PRACTICE__
+//#define __NAMESPACES_AND_SCOPE__
+//#define __LOCAL_VARIABLES__
+//#define __GLOBAL_VARIABLES__
+//#define __VARIABLE_SHADOWING__
+//#define __INTERNAL_LINKAGE__
+//#define __EXTERNAL_LINKAGE__
+//#define __NON_CONST_GLOBALS_ARE_BAD__
+//#define __INLINE_VARIABLES__
+//#define __STATIC_LOCAL_VARIABLES__
+//#define __SCOPE_DURATION_LINKAGE_SUMMARY__
+#define __INLINE_FUNCTIONS__

@@ -1,0 +1,27 @@
+﻿  basics.cpp
+  bitmasks.cpp
+  bitmask_practice.cpp
+  bit_manipulation.cpp
+  bit_manipulation_practice.cpp
+  bit_wise_operators.cpp
+  constants.cpp
+  external_linkage.cpp
+  forward_declarations.cpp
+  functions.cpp
+  global_variables.cpp
+  header_guards.cpp
+  inline_variables.cpp
+  integral_types.cpp
+  internal_linkage.cpp
+  literals.cpp
+  local_variables.cpp
+  multiply_by_2.cpp
+  namespaces_and_scope.cpp
+  non_const_globals_are_bad.cpp
+  Generating Code...
+  Compiling...
+  preprocessor_directives.cpp
+  static_local_variables.cpp
+  variable_shadowing.cpp
+  Generating Code...
+  CPP_Learn.vcxproj -> C:\Users\wildfire\Documents\repos\repos\CPP_Learn\x64\Debug\CPP_Learn.exe
