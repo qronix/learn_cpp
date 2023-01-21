@@ -5,23 +5,34 @@
   bit_manipulation_practice.cpp
   bit_wise_operators.cpp
   constants.cpp
+  constexpr_consteval_functions.cpp
   external_linkage.cpp
   forward_declarations.cpp
   functions.cpp
   global_variables.cpp
   header_guards.cpp
+  inline_functions.cpp
   inline_variables.cpp
   integral_types.cpp
   internal_linkage.cpp
   literals.cpp
   local_variables.cpp
   multiply_by_2.cpp
-  namespaces_and_scope.cpp
-  non_const_globals_are_bad.cpp
   Generating Code...
   Compiling...
+  namespaces_and_scope.cpp
+  non_const_globals_are_bad.cpp
   preprocessor_directives.cpp
+  prng.cpp
+  s6_quiz_one.cpp
+  s6_quiz_three.cpp
+  s6_quiz_two.cpp
+  s7_quiz_one.cpp
+  s7_quiz_three.cpp
+  s7_quiz_two.cpp
+  scope_duration_linkage_summary.cpp
   static_local_variables.cpp
+  stdcin_and_handling_invalid_input.cpp
   variable_shadowing.cpp
   Generating Code...
   CPP_Learn.vcxproj -> C:\Users\wildfire\Documents\repos\repos\CPP_Learn\x64\Debug\CPP_Learn.exe

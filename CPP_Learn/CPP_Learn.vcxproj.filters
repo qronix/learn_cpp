@@ -28,6 +28,15 @@
     <Filter Include="Source Files\S6">
       <UniqueIdentifier>{a03b7164-680d-42d7-99ed-3ad31f484518}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\S6\S6_Quiz_Exercises">
+      <UniqueIdentifier>{495eaedc-22e1-4ff1-9104-155d68555ba3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S7">
+      <UniqueIdentifier>{e89b0e86-9f01-455c-a1ee-89f04e484b7f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S7\S7_Quiz_Exercises">
+      <UniqueIdentifier>{1688be86-d17d-43fe-8129-ffb5773ffb01}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="basics.cpp">
@@ -123,6 +132,33 @@
     <ClCompile Include="inline_functions.cpp">
       <Filter>Source Files\S6</Filter>
     </ClCompile>
+    <ClCompile Include="constexpr_consteval_functions.cpp">
+      <Filter>Source Files\S6</Filter>
+    </ClCompile>
+    <ClCompile Include="s6_quiz_one.cpp">
+      <Filter>Source Files\S6\S6_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s6_quiz_two.cpp">
+      <Filter>Source Files\S6\S6_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s6_quiz_three.cpp">
+      <Filter>Source Files\S6\S6_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="stdcin_and_handling_invalid_input.cpp">
+      <Filter>Source Files\S7</Filter>
+    </ClCompile>
+    <ClCompile Include="prng.cpp">
+      <Filter>Source Files\S7</Filter>
+    </ClCompile>
+    <ClCompile Include="s7_quiz_one.cpp">
+      <Filter>Source Files\S7\S7_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s7_quiz_two.cpp">
+      <Filter>Source Files\S7\S7_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s7_quiz_three.cpp">
+      <Filter>Source Files\S7\S7_Quiz_Exercises</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="defineMain.h">
@@ -133,6 +169,12 @@
     </ClInclude>
     <ClInclude Include="geo_math.h">
       <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="constants.h">
+      <Filter>Source Files\S6\S6_Quiz_Exercises</Filter>
+    </ClInclude>
+    <ClInclude Include="s7_constants.h">
+      <Filter>Source Files\S7\S7_Quiz_Exercises</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

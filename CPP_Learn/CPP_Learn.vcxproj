@@ -139,6 +139,7 @@
     <ClCompile Include="bit_wise_operators.cpp" />
     <ClCompile Include="bool.cpp" />
     <ClCompile Include="constants.cpp" />
+    <ClCompile Include="constexpr_consteval_functions.cpp" />
     <ClCompile Include="external_linkage.cpp" />
     <ClCompile Include="floats.cpp" />
     <ClCompile Include="forward_declarations.cpp" />
@@ -156,17 +157,27 @@
     <ClCompile Include="namespaces_and_scope.cpp" />
     <ClCompile Include="non_const_globals_are_bad.cpp" />
     <ClCompile Include="preprocessor_directives.cpp" />
+    <ClCompile Include="prng.cpp" />
+    <ClCompile Include="s6_quiz_one.cpp" />
+    <ClCompile Include="s6_quiz_three.cpp" />
+    <ClCompile Include="s6_quiz_two.cpp" />
+    <ClCompile Include="s7_quiz_one.cpp" />
+    <ClCompile Include="s7_quiz_three.cpp" />
+    <ClCompile Include="s7_quiz_two.cpp" />
     <ClCompile Include="scope_duration_linkage_summary.cpp" />
     <ClCompile Include="static_local_variables.cpp" />
+    <ClCompile Include="stdcin_and_handling_invalid_input.cpp" />
     <ClCompile Include="strings.cpp" />
     <ClCompile Include="types.cpp" />
     <ClCompile Include="type_conversion.cpp" />
     <ClCompile Include="variable_shadowing.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="constants.h" />
     <ClInclude Include="defineMain.h" />
     <ClInclude Include="geo_math.h" />
     <ClInclude Include="geo_utils.h" />
+    <ClInclude Include="s7_constants.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

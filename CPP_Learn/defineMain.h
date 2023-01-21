@@ -26,4 +26,13 @@
 //#define __INLINE_VARIABLES__
 //#define __STATIC_LOCAL_VARIABLES__
 //#define __SCOPE_DURATION_LINKAGE_SUMMARY__
-#define __INLINE_FUNCTIONS__
+//#define __INLINE_FUNCTIONS__
+//#define __CONST_EXPR_EVAL__
+//#define __S6_Quiz_Ex_One__
+//#define __S6_Quiz_Ex_Two__
+//#define __S6_Quiz_Ex_Three__
+//#define __HANDLING_INVALID_INPUT__
+//#define __PRNG__
+//#define __S7_Quiz_Ex_One__
+//#define __S7_Quiz_Ex_Two__
+#define __S7_Quiz_Ex_Three__
