@@ -37,6 +37,12 @@
     <Filter Include="Source Files\S7\S7_Quiz_Exercises">
       <UniqueIdentifier>{1688be86-d17d-43fe-8129-ffb5773ffb01}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\S8">
+      <UniqueIdentifier>{6bf20927-705f-4d8f-8bfa-b0062c3f6127}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S8\S8_Quiz_Exercises">
+      <UniqueIdentifier>{21ca598d-a189-4a8d-a0e2-2cf3373a56d8}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="basics.cpp">
@@ -158,6 +164,24 @@
     </ClCompile>
     <ClCompile Include="s7_quiz_three.cpp">
       <Filter>Source Files\S7\S7_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="function_templates.cpp">
+      <Filter>Source Files\S8</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_quiz_one.cpp">
+      <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_quiz_two.cpp">
+      <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_quiz_three.cpp">
+      <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_quiz_four.cpp">
+      <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s8_quiz_five.cpp">
+      <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

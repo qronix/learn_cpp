@@ -1,13 +1,14 @@
 ﻿  basics.cpp
-  bitmasks.cpp
-  bitmask_practice.cpp
   bit_manipulation.cpp
   bit_manipulation_practice.cpp
   bit_wise_operators.cpp
+  bitmask_practice.cpp
+  bitmasks.cpp
   constants.cpp
   constexpr_consteval_functions.cpp
   external_linkage.cpp
   forward_declarations.cpp
+  function_templates.cpp
   functions.cpp
   global_variables.cpp
   header_guards.cpp
@@ -17,9 +18,9 @@
   internal_linkage.cpp
   literals.cpp
   local_variables.cpp
-  multiply_by_2.cpp
   Generating Code...
   Compiling...
+  multiply_by_2.cpp
   namespaces_and_scope.cpp
   non_const_globals_are_bad.cpp
   preprocessor_directives.cpp
@@ -30,6 +31,11 @@
   s7_quiz_one.cpp
   s7_quiz_three.cpp
   s7_quiz_two.cpp
+  s8_quiz_five.cpp
+  s8_quiz_four.cpp
+  s8_quiz_one.cpp
+  s8_quiz_three.cpp
+  s8_quiz_two.cpp
   scope_duration_linkage_summary.cpp
   static_local_variables.cpp
   stdcin_and_handling_invalid_input.cpp

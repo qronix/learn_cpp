@@ -35,4 +35,14 @@
 //#define __PRNG__
 //#define __S7_Quiz_Ex_One__
 //#define __S7_Quiz_Ex_Two__
-#define __S7_Quiz_Ex_Three__
+//#define __S7_Quiz_Ex_Three__
+//#define __FUNCTION_TEMPLATES__
+//#define __S8_Quiz_Ex_One__
+//#define __S8_Quiz_Ex_Two__
+//#define __S8_Quiz_Ex_Three_A__
+//#define __S8_Quiz_Ex_Three_B__
+//#define __S8_Quiz_Ex_Three_C__
+//#define __S8_Quiz_Ex_Four__
+//#define __S8_Quiz_Ex_Five_A__
+//#define __S8_Quiz_Ex_Five_B__
+#define __S8_Quiz_Ex_Five_C__

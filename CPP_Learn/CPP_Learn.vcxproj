@@ -144,6 +144,7 @@
     <ClCompile Include="floats.cpp" />
     <ClCompile Include="forward_declarations.cpp" />
     <ClCompile Include="functions.cpp" />
+    <ClCompile Include="function_templates.cpp" />
     <ClCompile Include="global_variables.cpp" />
     <ClCompile Include="headers.cpp" />
     <ClCompile Include="header_guards.cpp" />
@@ -164,6 +165,11 @@
     <ClCompile Include="s7_quiz_one.cpp" />
     <ClCompile Include="s7_quiz_three.cpp" />
     <ClCompile Include="s7_quiz_two.cpp" />
+    <ClCompile Include="s8_quiz_five.cpp" />
+    <ClCompile Include="s8_quiz_four.cpp" />
+    <ClCompile Include="s8_quiz_one.cpp" />
+    <ClCompile Include="s8_quiz_three.cpp" />
+    <ClCompile Include="s8_quiz_two.cpp" />
     <ClCompile Include="scope_duration_linkage_summary.cpp" />
     <ClCompile Include="static_local_variables.cpp" />
     <ClCompile Include="stdcin_and_handling_invalid_input.cpp" />
