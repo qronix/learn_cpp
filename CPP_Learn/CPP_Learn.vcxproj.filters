@@ -43,6 +43,24 @@
     <Filter Include="Source Files\S8\S8_Quiz_Exercises">
       <UniqueIdentifier>{21ca598d-a189-4a8d-a0e2-2cf3373a56d8}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\S9">
+      <UniqueIdentifier>{169ecf96-21d7-47ef-bfbf-d3950f7c2a74}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S10">
+      <UniqueIdentifier>{759fe1a9-798c-4065-b59b-2c7a5654e45e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S11">
+      <UniqueIdentifier>{39795d71-4935-439c-b601-a86bd241731a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S11\s_11_4_array_sorting">
+      <UniqueIdentifier>{66b783e2-33cd-45e6-b956-e1a85169d6b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S11\s_11_7_string_view">
+      <UniqueIdentifier>{4ce58494-886b-4918-8925-5f196b57c8c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\S11\s_11_9_pointer_arithmetic">
+      <UniqueIdentifier>{95f1bcab-0f51-43ce-93dc-652a96754af2}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="basics.cpp">
@@ -182,6 +200,81 @@
     </ClCompile>
     <ClCompile Include="s8_quiz_five.cpp">
       <Filter>Source Files\S8\S8_Quiz_Exercises</Filter>
+    </ClCompile>
+    <ClCompile Include="s9_quiz.cpp">
+      <Filter>Source Files\S9</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_2_unscoped_enumerations.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_3_unscoped_enumerations_io.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_4_scoped_enumerations_quiz.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_8_structs_quiz.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_10_class_templates_1.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s_10_final_quiz.cpp">
+      <Filter>Source Files\S10</Filter>
+    </ClCompile>
+    <ClCompile Include="s11_2_quiz.cpp">
+      <Filter>Source Files\S11</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_3_quiz.cpp">
+      <Filter>Source Files\S11</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_array_sorting.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_std_sort.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_array_sorting_quiz_q1.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_array_sorting_quiz_q2.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_array_sorting_quiz_q3.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_4_array_sorting_quiz_q4.cpp">
+      <Filter>Source Files\S11\s_11_4_array_sorting</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_1.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_2.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_3.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s11_7_string_view_ex_4.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_5.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s11_7_string_view_ex_6.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_7.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_7_string_view_ex_8.cpp">
+      <Filter>Source Files\S11\s_11_7_string_view</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_9_pointer_arithmetic_ex_1.cpp">
+      <Filter>Source Files\S11\s_11_9_pointer_arithmetic</Filter>
+    </ClCompile>
+    <ClCompile Include="s_11_9_pointer_arithmetic_ex_2.cpp">
+      <Filter>Source Files\S11\s_11_9_pointer_arithmetic</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>

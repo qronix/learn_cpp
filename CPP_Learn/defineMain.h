@@ -1,6 +1,6 @@
 #pragma once
 
-#include <iostream>
+//#include <iostream>
 
 //#define __BASICS__
 //#define __MULTIPLY_BY_TWO__
@@ -45,4 +45,32 @@
 //#define __S8_Quiz_Ex_Four__
 //#define __S8_Quiz_Ex_Five_A__
 //#define __S8_Quiz_Ex_Five_B__
-#define __S8_Quiz_Ex_Five_C__
+//#define __S8_Quiz_Ex_Five_C__
+//#define __S9_Quiz__
+//#define __Unscoped_Enumerations__
+//#define __Unscoped_Enumerations_IO__
+//#define __Scoped_Enumerations__
+//#define __S10_8_Quiz_Ex_One
+//#define __S10_8_Quiz_Ex_Two
+//#define __S10_8_Quiz_Ex_Three
+//#define __S10_10_Class_Templates_1__
+//#define __S10_Final_Quiz_1__
+//#define __S10_Final_Quiz_3__
+//#define __S11_2_Arrays__
+//#define __S11_3_Arrays_and_Loops__
+//#define __S11_4_Array_Sorting__
+//#define __S11_4_STD_Sort__
+//#define __S11_4_Quiz_Q1__
+//#define __S11_4_Quiz_Q2__
+//#define __S11_4_Quiz_Q3__
+//#define __S11_4_Quiz_Q4__
+//#define __S11_7_String_View_EX1__
+//#define __S11_7_String_View_EX2__
+//#define __S11_7_String_View_EX3__
+//#define __S11_7_String_View_EX4__
+//#define __S11_7_String_View_EX5__
+//#define __S11_7_String_View_EX6__
+//#define __S11_7_String_View_EX7__
+//#define __S11_7_String_View_EX8__
+//#define __S11_8_String_View_EX1__
+#define __S11_8_String_View_EX2__

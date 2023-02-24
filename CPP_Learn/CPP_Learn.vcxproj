@@ -159,6 +159,8 @@
     <ClCompile Include="non_const_globals_are_bad.cpp" />
     <ClCompile Include="preprocessor_directives.cpp" />
     <ClCompile Include="prng.cpp" />
+    <ClCompile Include="s11_2_quiz.cpp" />
+    <ClCompile Include="s11_7_string_view_ex_6.cpp" />
     <ClCompile Include="s6_quiz_one.cpp" />
     <ClCompile Include="s6_quiz_three.cpp" />
     <ClCompile Include="s6_quiz_two.cpp" />
@@ -170,13 +172,36 @@
     <ClCompile Include="s8_quiz_one.cpp" />
     <ClCompile Include="s8_quiz_three.cpp" />
     <ClCompile Include="s8_quiz_two.cpp" />
+    <ClCompile Include="s9_quiz.cpp" />
     <ClCompile Include="scope_duration_linkage_summary.cpp" />
     <ClCompile Include="static_local_variables.cpp" />
     <ClCompile Include="stdcin_and_handling_invalid_input.cpp" />
     <ClCompile Include="strings.cpp" />
+    <ClCompile Include="s_10_10_class_templates_1.cpp" />
+    <ClCompile Include="s_10_2_unscoped_enumerations.cpp" />
+    <ClCompile Include="s_10_3_unscoped_enumerations_io.cpp" />
+    <ClCompile Include="s_10_4_scoped_enumerations_quiz.cpp" />
+    <ClCompile Include="s_10_8_structs_quiz.cpp" />
+    <ClCompile Include="s_10_final_quiz.cpp" />
+    <ClCompile Include="s_11_3_quiz.cpp" />
+    <ClCompile Include="s_11_4_array_sorting.cpp" />
+    <ClCompile Include="s_11_4_array_sorting_quiz_q1.cpp" />
+    <ClCompile Include="s_11_4_array_sorting_quiz_q2.cpp" />
+    <ClCompile Include="s_11_4_array_sorting_quiz_q3.cpp" />
+    <ClCompile Include="s_11_4_array_sorting_quiz_q4.cpp" />
+    <ClCompile Include="s_11_4_std_sort.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_1.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_2.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_3.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_5.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_7.cpp" />
+    <ClCompile Include="s_11_7_string_view_ex_8.cpp" />
+    <ClCompile Include="s_11_9_pointer_arithmetic_ex_1.cpp" />
+    <ClCompile Include="s_11_9_pointer_arithmetic_ex_2.cpp" />
     <ClCompile Include="types.cpp" />
     <ClCompile Include="type_conversion.cpp" />
     <ClCompile Include="variable_shadowing.cpp" />
+    <ClCompile Include="s11_7_string_view_ex_4.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="constants.h" />
